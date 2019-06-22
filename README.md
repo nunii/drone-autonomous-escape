@@ -1,4 +1,4 @@
-# drone-autonomous-escape
+# drone-autonomous-tree-evasion
 Our project focuses on a "DJI Tello" drone, making it autonomously evade obsticles.
 We focused on evading trees, by processing the video from the drone at real time, and built an algorithm which will make it avoid the trees.
 
